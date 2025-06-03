@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/popup_upload" android:title="Upload" />
+    <item android:id="@+id/popup_search" android:title="Search" />
+    <item android:id="@+id/popup_share" android:title="Share" />
+</menu>
